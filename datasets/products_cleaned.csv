@@ -1,0 +1,181 @@
+product_id,product_name,category,sub_category,unit_cost,unit_price,primary_supplier_id,launch_date,is_active
+P001,Footwear_Item_1,Footwear,Formal,243.92,309.39,S006,2024-10-07,True
+P002,Personal Care_Item_2,Personal Care,Haircare,163.88,204.15,S015,"January 5, 2025",True
+P003,Footwear_Item_3,Footwear,Casual,225.97,301.13,S012,23/12/2024,True
+P004,Electronics Accessories_Item_4,Electronics Accessories,Small Appliances,254.48,337.01,S006,01/07/2023,True
+P005,Home & Kitchen_Item_5,Home & Kitchen,Storage,218.67,278.31,S023,11/10/2018,False
+P006,Electronics Accessories_Item_6,Electronics Accessories,Small Appliances,228.73,304.33,S026,01/06/2025,True
+P007,Grocery_Item_7,Grocery,Rice & Grains,290.28,415.28,S003,01/10/2021,True
+P008,Grocery_Item_8,Grocery,Rice & Grains,149.32,192.67,S002,2021-10-14,True
+P009,Electronics Accessories_Item_9,Electronics Accessories,Mobile Accessories,73.67,89.07,S006,"February 23, 2023",False
+P010,Electronics Accessories_Item_10,Electronics Accessories,Mobile Accessories,284.71,359.63,S030,2023-09-28,True
+P011,Grocery_Item_11,Grocery,Rice & Grains,73.32,92.99,S038,"May 8, 2025",True
+P012,Personal Care_Item_12,Personal Care,Oral Care,132.44,157.52,S007,"February 7, 2022",True
+P013,Personal Care_Item_13,Personal Care,Oral Care,226.5,271.54,S014,"May 7, 2022",False
+P014,Stationery_Item_14,Stationery,School Supplies,230.03,311.78,S024,2023-07-14,False
+P015,Personal Care_Item_15,Personal Care,Skincare,152.6,191.03,S015,"March 28, 2019",True
+P016,Home & Kitchen_Item_16,Home & Kitchen,Cookware,171.71,246.66,S017,12/09/2019,True
+P017,Beverages_Item_17,Beverages,Tea & Coffee,,264.43,S001,25/06/2022,True
+P018,Home & Kitchen_Item_18,Home & Kitchen,Cookware,121.59,143.44,S024,"July 25, 2017",True
+P019,Apparel_Item_19,Apparel,Womenswear,398.55,548.43,S031,2019-10-23,True
+P020,Stationery_Item_20,Stationery,School Supplies,107.83,152.51,S024,2023-04-17,True
+P021,Home & Kitchen_Item_21,Home & Kitchen,Cookware,,199.78,S017,"July 21, 2025",True
+P022,Grocery_Item_22,Grocery,Rice & Grains,140.44,170.02,S039,2021-07-21,True
+P023,Grocery_Item_23,Grocery,Rice & Grains,193.23,232.98,S019,"July 2, 2020",True
+P024,Apparel_Item_24,Apparel,Menswear,387.49,506.3,S031,"November 10, 2020",True
+P025,Electronics Accessories_Item_25,Electronics Accessories,Mobile Accessories,104.37,134.69,S012,03/01/2023,True
+P026,Grocery_Item_26,Grocery,Spices,228.54,280.61,S038,2021-10-09,True
+P027,Grocery_Item_27,Grocery,Cooking Oil,250.94,291.98,S039,16/03/2017,True
+P028,Personal Care_Item_28,Personal Care,Oral Care,320.87,415.35,S004,2021-09-22,False
+P029,Grocery_Item_29,Grocery,Spices,114.64,164.83,S039,04/07/2020,True
+P030,Electronics Accessories_Item_30,Electronics Accessories,Small Appliances,111.93,150.63,S030,2023-02-21,True
+P031,Beverages_Item_31,Beverages,Soft Drinks,163.07,211.77,S001,01/09/2024,True
+P032,Grocery_Item_32,Grocery,Snacks,164.9,195.11,S038,"June 7, 2025",True
+P033,Stationery_Item_33,Stationery,School Supplies,100.13,122.73,S003,07/05/2022,True
+P034,Grocery_Item_34,Grocery,Rice & Grains,254.11,314.7,S002,2020-03-06,True
+P035,Beverages_Item_35,Beverages,Soft Drinks,240.96,332.39,S001,2020-11-21,False
+P036,Grocery_Item_36,Grocery,Cooking Oil,473.7,669.34,S011,19/07/2018,True
+P037,Grocery_Item_37,Grocery,Spices,151.76,215.57,S019,2025-03-14,True
+P038,Grocery_Item_38,Grocery,Spices,98.67,142.61,S011,2024-06-04,True
+P039,Grocery_Item_39,Grocery,Spices,107.76,155.68,S002,"June 25, 2024",True
+P040,Grocery_Item_40,Grocery,Rice & Grains,215.04,308.78,S003,2019-11-16,True
+P041,Grocery_Item_41,Grocery,Spices,116.1,136.02,S038,"October 29, 2019",False
+P042,Personal Care_Item_42,Personal Care,Oral Care,263.93,314.43,S044,2024-07-04,True
+P043,Apparel_Item_43,Apparel,Kidswear,124.17,154.14,S044,2021-10-09,False
+P044,Beverages_Item_44,Beverages,Tea & Coffee,199.13,262.03,S001,"March 5, 2023",True
+P045,Beverages_Item_45,Beverages,Tea & Coffee,173.43,204.49,S041,"April 17, 2021",True
+P046,Home & Kitchen_Item_46,Home & Kitchen,Cleaning Supplies,107.05,150.27,S035,17/11/2020,True
+P047,Stationery_Item_47,Stationery,Office Supplies,75.6,100.93,S032,2022-07-17,False
+P048,Stationery_Item_48,Stationery,Office Supplies,336.07,441.16,S003,"February 15, 2024",True
+P049,Grocery_Item_49,Grocery,Rice & Grains,218.32,261.9,S039,2019-12-06,True
+P050,Grocery_Item_50,Grocery,Rice & Grains,91.34,111.98,S011,"February 3, 2024",True
+P051,Grocery_Item_51,Grocery,Rice & Grains,96.27,115.34,S002,21/02/2019,True
+P052,Grocery_Item_52,Grocery,Cooking Oil,,655.45,S003,13/07/2020,True
+P053,Personal Care_Item_53,Personal Care,Haircare,111.17,,S015,30/12/2024,True
+P054,Home & Kitchen_Item_54,Home & Kitchen,Cleaning Supplies,205.66,281.87,S001,"May 13, 2025",True
+P055,Grocery_Item_55,Grocery,Cooking Oil,66.59,82.49,S010,"February 4, 2025",True
+P056,Beverages_Item_56,Beverages,Juice,141.98,179.09,S014,2019-10-09,True
+P057,Personal Care_Item_57,Personal Care,Haircare,273.55,347.81,S044,"May 22, 2024",True
+P058,Grocery_Item_58,Grocery,Rice & Grains,61.49,84.73,S002,15/03/2025,True
+P059,Electronics Accessories_Item_59,Electronics Accessories,Small Appliances,129.82,179.37,S026,"July 28, 2025",True
+P060,Grocery_Item_60,Grocery,Snacks,126.05,152.78,S039,"March 8, 2017",True
+P061,Stationery_Item_61,Stationery,Office Supplies,239.09,342.49,S033,2023-07-12,True
+P062,Grocery_Item_62,Grocery,Spices,228.04,270.5,S039,2025-09-25,True
+P063,Electronics Accessories_Item_63,Electronics Accessories,Small Appliances,238.72,338.7,S006,13/09/2023,True
+P064,Stationery_Item_64,Stationery,Office Supplies,204.18,240.96,S033,17/01/2019,True
+P065,Footwear_Item_65,Footwear,Casual,227.84,280.1,S031,"September 7, 2023",True
+P066,Electronics Accessories_Item_66,Electronics Accessories,Mobile Accessories,,118.44,S022,2017-12-03,True
+P067,Electronics Accessories_Item_67,Electronics Accessories,Mobile Accessories,204.86,246.62,S025,2021-03-18,True
+P068,Personal Care_Item_68,Personal Care,Skincare,368.46,469.44,S016,"June 27, 2022",True
+P069,Electronics Accessories_Item_69,Electronics Accessories,Small Appliances,183.17,235.37,S025,2020-12-31,True
+P070,Grocery_Item_70,Grocery,Cooking Oil,126.64,154.95,S010,2023-02-18,True
+P071,Personal Care_Item_71,Personal Care,Oral Care,133.22,181.59,S044,"February 8, 2019",True
+P072,Home & Kitchen_Item_72,Home & Kitchen,Storage,354.09,497.64,S045,24/04/2022,False
+P073,Stationery_Item_73,Stationery,School Supplies,40.91,57.78,S024,26/08/2022,True
+P074,Home & Kitchen_Item_74,Home & Kitchen,Cleaning Supplies,582.31,728.93,S043,2022-07-22,True
+P075,Beverages_Item_75,Beverages,Soft Drinks,55.37,72.49,S014,15/07/2019,True
+P076,Personal Care_Item_76,Personal Care,Skincare,153.56,188.04,S035,05/09/2019,True
+P077,Beverages_Item_77,Beverages,Juice,93.83,114.8,S030,2019-04-05,True
+P078,Grocery_Item_78,Grocery,Rice & Grains,237.09,284.12,S011,"January 17, 2021",True
+P079,Home & Kitchen_Item_79,Home & Kitchen,Cookware,258.75,370.53,S004,19/02/2022,True
+P080,Home & Kitchen_Item_80,Home & Kitchen,Cookware,197.45,279.67,S035,2020-03-06,True
+P081,Grocery_Item_81,Grocery,Spices,166.49,230.29,S010,"August 4, 2020",False
+P082,Beverages_Item_82,Beverages,Juice,63.28,82.6,S009,"July 6, 2019",True
+P083,Beverages_Item_83,Beverages,Tea & Coffee,144.71,187.72,S009,02/12/2018,True
+P084,Beverages_Item_84,Beverages,Juice,163.53,214.05,S043,"October 5, 2022",True
+P085,Beverages_Item_85,Beverages,Soft Drinks,94.39,123.74,S001,"February 25, 2024",False
+P086,Apparel_Item_86,Apparel,Womenswear,213.38,273.21,S044,"July 20, 2019",False
+P087,Beverages_Item_87,Beverages,Soft Drinks,198.02,235.55,S041,2024-07-16,True
+P088,Footwear_Item_88,Footwear,Sports,150.33,178.55,S006,2022-01-02,False
+P089,Stationery_Item_89,Stationery,Office Supplies,178.29,255.97,S032,2018-06-21,True
+P090,Home & Kitchen_Item_90,Home & Kitchen,Cleaning Supplies,148.75,192.57,S024,2020-03-17,True
+P091,Beverages_Item_91,Beverages,Tea & Coffee,64.31,92.35,S013,2017-01-25,True
+P092,Personal Care_Item_92,Personal Care,Haircare,232.03,278.22,S029,"May 6, 2017",False
+P093,Electronics Accessories_Item_93,Electronics Accessories,Mobile Accessories,37.31,49.11,S025,2019-12-12,True
+P094,Apparel_Item_94,Apparel,Womenswear,208.2,252.4,S036,25/12/2020,True
+P095,Electronics Accessories_Item_95,Electronics Accessories,Small Appliances,82.55,101.2,S025,"December 28, 2023",False
+P096,Personal Care_Item_96,Personal Care,Skincare,216.73,251.19,S035,"March 6, 2018",False
+P097,Personal Care_Item_97,Personal Care,Haircare,220.78,261.78,S026,"May 9, 2024",False
+P098,Beverages_Item_98,Beverages,Tea & Coffee,221.07,315.04,S014,21/01/2019,False
+P099,Apparel_Item_99,Apparel,Womenswear,274.11,341.67,S045,2018-03-19,False
+P100,Grocery_Item_100,Grocery,Snacks,336.65,448.57,S038,2023-02-18,True
+P101,Apparel_Item_101,Apparel,Menswear,141.02,181.85,S045,2023-10-14,True
+P102,Stationery_Item_102,Stationery,Office Supplies,270.66,343.77,S033,2022-04-20,True
+P103,Grocery_Item_103,Grocery,Spices,139.12,182.19,S011,2018-01-06,True
+P104,Personal Care_Item_104,Personal Care,Haircare,212.79,256.66,S029,"January 5, 2018",True
+P105,Grocery_Item_105,Grocery,Snacks,292.58,423.24,S010,02/06/2020,True
+P106,Apparel_Item_106,Apparel,Womenswear,111.9,156.16,S018,"December 12, 2020",False
+P107,Grocery_Item_107,Grocery,Cooking Oil,43.33,59.47,S011,"October 1, 2025",True
+P108,Footwear_Item_108,Footwear,Formal,106.04,136.86,S031,06/07/2019,True
+P109,Grocery_Item_109,Grocery,Cooking Oil,315.7,377.53,S019,2018-09-09,True
+P110,Footwear_Item_110,Footwear,Casual,98.76,140.85,S018,2025-04-15,True
+P111,Electronics Accessories_Item_111,Electronics Accessories,Small Appliances,306.38,383.72,S025,"May 8, 2018",True
+P112,Personal Care_Item_112,Personal Care,Haircare,106.34,123.89,S014,2017-03-26,True
+P113,Electronics Accessories_Item_113,Electronics Accessories,Small Appliances,159.26,199.51,S030,2020-09-14,True
+P114,Electronics Accessories_Item_114,Electronics Accessories,Mobile Accessories,178.67,248.05,S022,2020-07-07,True
+P115,Footwear_Item_115,Footwear,Casual,98.5,131.68,S020,2022-06-06,False
+P116,Beverages_Item_116,Beverages,Juice,160.23,220.36,S013,09/09/2024,True
+P117,Personal Care_Item_117,Personal Care,Haircare,70.5,97.86,S014,2025-03-05,True
+P118,Grocery_Item_118,Grocery,Cooking Oil,148.02,179.64,S039,"July 16, 2019",True
+P119,Personal Care_Item_119,Personal Care,Haircare,170.76,243.7,S015,2025-08-05,True
+P120,Grocery_Item_120,Grocery,Spices,44.42,56.92,S002,18/07/2022,True
+P121,Personal Care_Item_121,Personal Care,Haircare,105.54,141.6,S015,"August 11, 2017",True
+P122,Personal Care_Item_122,Personal Care,Skincare,209.32,240.86,S016,2025-03-23,False
+P123,Home & Kitchen_Item_123,Home & Kitchen,Cookware,92.27,133.61,S001,2018-03-18,True
+P124,Personal Care_Item_124,Personal Care,Oral Care,228.01,281.43,S014,2022-02-27,True
+P125,Apparel_Item_125,Apparel,Menswear,240.01,280.48,S018,"December 6, 2023",True
+P126,Electronics Accessories_Item_126,Electronics Accessories,Small Appliances,208.83,268.86,S026,2019-03-10,True
+P127,Home & Kitchen_Item_127,Home & Kitchen,Cookware,268.94,319.69,S040,"May 17, 2019",True
+P128,Personal Care_Item_128,Personal Care,Skincare,67.98,81.28,S044,"March 4, 2021",True
+P129,Footwear_Item_129,Footwear,Casual,299.59,401.36,S018,2024-10-02,True
+P130,Grocery_Item_130,Grocery,Cooking Oil,99.39,126.01,S038,"December 17, 2018",True
+P131,Grocery_Item_131,Grocery,Snacks,189.9,270.9,S003,2022-10-25,True
+P132,Grocery_Item_132,Grocery,Spices,428.66,534.0,S038,"December 19, 2020",True
+P133,Apparel_Item_133,Apparel,Womenswear,146.27,200.08,S036,24/12/2017,False
+P134,Home & Kitchen_Item_134,Home & Kitchen,Cleaning Supplies,181.12,233.34,S040,2023-03-25,True
+P135,Electronics Accessories_Item_135,Electronics Accessories,Small Appliances,99.73,134.43,S034,18/04/2024,True
+P136,Apparel_Item_136,Apparel,Kidswear,426.39,567.06,S036,"January 17, 2022",True
+P137,Beverages_Item_137,Beverages,Juice,105.67,136.51,S013,"July 19, 2018",True
+P138,Stationery_Item_138,Stationery,Office Supplies,251.21,360.49,S032,14/05/2018,True
+P139,Apparel_Item_139,Apparel,Womenswear,336.33,421.36,S044,17/09/2020,True
+P140,Beverages_Item_140,Beverages,Tea & Coffee,264.01,317.65,S043,2021-06-09,True
+P141,Beverages_Item_141,Beverages,Soft Drinks,215.77,292.03,S043,2021-11-02,True
+P142,Beverages_Item_142,Beverages,Tea & Coffee,188.33,264.38,S009,"February 19, 2019",True
+P143,Grocery_Item_143,Grocery,Cooking Oil,84.51,98.21,S019,"May 22, 2021",True
+P144,Grocery_Item_144,Grocery,Cooking Oil,416.23,534.81,S002,2019-08-03,True
+P145,Footwear_Item_145,Footwear,Casual,206.33,292.52,S021,2023-01-05,True
+P146,Home & Kitchen_Item_146,Home & Kitchen,Storage,181.18,249.1,S045,24/12/2023,True
+P147,Beverages_Item_147,Beverages,Soft Drinks,,137.52,S001,2022-09-20,True
+P148,Apparel_Item_148,Apparel,Menswear,185.99,243.54,S042,2017-01-04,False
+P149,Personal Care_Item_149,Personal Care,Haircare,175.04,235.95,S044,2025-09-10,True
+P150,Footwear_Item_150,Footwear,Formal,428.65,531.84,S028,"March 18, 2017",True
+P151,Electronics Accessories_Item_151,Electronics Accessories,Mobile Accessories,181.12,259.77,S022,04/10/2025,True
+P152,Home & Kitchen_Item_152,Home & Kitchen,Cookware,184.37,232.29,S004,12/04/2017,True
+P153,Beverages_Item_153,Beverages,Soft Drinks,95.65,131.19,S043,"July 11, 2021",True
+P154,Footwear_Item_154,Footwear,Casual,117.47,149.3,S031,2017-12-06,True
+P155,Apparel_Item_155,Apparel,Womenswear,235.5,310.52,S042,01/11/2017,False
+P156,Footwear_Item_156,Footwear,Formal,61.02,83.35,S031,27/12/2022,True
+P157,Grocery_Item_157,Grocery,Cooking Oil,298.73,389.15,S002,2023-05-19,True
+P158,Stationery_Item_158,Stationery,School Supplies,303.03,430.95,S032,2018-01-14,True
+P159,Personal Care_Item_159,Personal Care,Oral Care,110.66,141.18,S004,"July 23, 2025",True
+P160,Grocery_Item_160,Grocery,Cooking Oil,216.19,290.59,S039,"October 23, 2019",False
+P161,Personal Care_Item_161,Personal Care,Haircare,342.18,428.65,S029,2019-10-16,False
+P162,Apparel_Item_162,Apparel,Womenswear,167.39,212.99,S045,2019-08-09,True
+P163,Grocery_Item_163,Grocery,Cooking Oil,150.73,193.24,S019,15/01/2021,True
+P164,Home & Kitchen_Item_164,Home & Kitchen,Cleaning Supplies,161.01,191.24,S001,"July 24, 2018",False
+P165,Electronics Accessories_Item_165,Electronics Accessories,Mobile Accessories,206.08,242.66,S002,"September 21, 2020",True
+P166,Beverages_Item_166,Beverages,Soft Drinks,126.01,170.14,S013,2018-11-03,False
+P167,Home & Kitchen_Item_167,Home & Kitchen,Storage,143.76,193.6,S040,2017-06-14,False
+P168,Home & Kitchen_Item_168,Home & Kitchen,Cleaning Supplies,208.29,280.96,S004,25/03/2020,True
+P169,Beverages_Item_169,Beverages,Juice,137.33,158.74,S041,22/11/2022,True
+P170,Stationery_Item_170,Stationery,Office Supplies,91.01,113.58,S008,"September 8, 2023",True
+P171,Electronics Accessories_Item_171,Electronics Accessories,Mobile Accessories,58.12,70.29,S025,05/02/2020,True
+P172,Grocery_Item_172,Grocery,Cooking Oil,183.05,253.24,S003,2019-11-02,True
+P173,Footwear_Item_173,Footwear,Formal,330.89,465.96,S018,2023-11-25,True
+P174,Stationery_Item_174,Stationery,School Supplies,222.01,271.74,S024,"December 20, 2022",True
+P175,Beverages_Item_175,Beverages,Juice,92.99,125.57,S001,16/04/2024,True
+P176,Electronics Accessories_Item_176,Electronics Accessories,Small Appliances,116.99,139.08,S026,2024-12-09,True
+P177,Grocery_Item_177,Grocery,Cooking Oil,150.11,185.02,S038,12/03/2024,True
+P178,Footwear_Item_178,Footwear,Sports,435.99,519.52,S031,"March 16, 2025",True
+P179,Apparel_Item_179,Apparel,Kidswear,448.65,554.11,S031,26/08/2020,True
+P180,Apparel_Item_180,Apparel,Womenswear,,568.92,S045,2020-06-16,False
