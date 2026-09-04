@@ -1,0 +1,21 @@
+store_id,store_name,region,city,store_type,store_size_sqft,opening_date,manager_name
+ST01,ACPL Store 1,Rajshahi,Bogura,Express,3085,2023-02-24,Manager_1
+ST02,ACPL Store 2,Chattogram,Chattogram,Standard,4275,2020-05-24,Manager_2
+ST03,ACPL Store 3,Khulna,Jessore,Express,4203,2018-11-18,Manager_3
+ST04,ACPL Store 4,Rajshahi,Rajshahi,Express,3249,2022-07-24,
+ST05,ACPL Store 5,Dhaka,Narayanganj,Express,5246,2021-06-13,Manager_5
+ST06,ACPL Store 6,Barishal,Patuakhali,Standard,3739,2021-11-01,Manager_6
+ST07,ACPL Store 7,Rajshahi,Bogura,Standard,1211,2018-07-14,Manager_7
+ST08,ACPL Store 8,Rajshahi,Bogura,Flagship,4777,2019-09-17,Manager_8
+ST09,ACPL Store 9,Dhaka,Gazipur,Standard,3787,2022-03-16,Manager_9
+ST10,ACPL Store 10,Chattogram,Cox's Bazar,Standard,4100,2022-07-23,Manager_10
+ST11,ACPL Store 11,Chattogram,Chattogram,Express,3739,2020-05-20,Manager_11
+ST12,ACPL Store 12,Barishal,Patuakhali,Express,3678,2022-05-29,Manager_12
+ST13,ACPL Store 13,Sylhet,Moulvibazar,Standard,1270,2022-08-11,Manager_13
+ST14,ACPL Store 14,Khulna,Khulna,Standard,3707,2020-02-14,Manager_14
+ST15,ACPL Store 15,Chattogram,Cox's Bazar,Standard,4933,2022-12-02,Manager_15
+ST16,ACPL Store 16,Dhaka,Gazipur,Standard,2380,2019-07-31,Manager_16
+ST17,ACPL Store 17,Sylhet,Sylhet,Flagship,3934,2019-04-25,Manager_17
+ST18,ACPL Store 18,Dhaka,Dhaka,Standard,960,2021-09-26,Manager_18
+ST19,ACPL Store 19,Khulna,Khulna,Standard,2606,2021-06-27,Manager_19
+ST20,ACPL Store 20,Sylhet,Sylhet,Standard,3070,2018-10-07,Manager_20

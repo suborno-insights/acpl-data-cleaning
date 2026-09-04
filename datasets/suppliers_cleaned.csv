@@ -1,0 +1,46 @@
+supplier_id,supplier_name,region,categories_supplied,contract_start_date,payment_terms_days,base_lead_time_days
+S001,Supplier_1,Dhaka,Home & Kitchen; Beverages,2022-12-23,15.0,5
+S002,Supplier_2,Barishal,Grocery; Electronics Accessories,2024-06-04,60.0,19
+S003,Supplier_3,Sylhet,Stationery; Grocery,2023-04-06,15.0,3
+S004,Supplier_4,Sylhet,Home & Kitchen; Personal Care,2020-03-12,45.0,6
+S005,Supplier_5,Sylhet,Apparel,2018-09-27,30.0,7
+S006,Supplier_6,Khulna,Electronics Accessories; Footwear,2022-03-17,30.0,8
+S007,Supplier_7,Dhaka,Personal Care,2024-04-09,,5
+S008,Supplier_8,Dhaka,Stationery,2024-09-03,60.0,3
+S009,Supplier_9,Chattogram,Beverages,2019-07-30,30.0,15
+S010,Supplier_10,Sylhet,Grocery,2019-08-15,45.0,20
+S011,Supplier_11,Khulna,Grocery,2018-04-04,,5
+S012,Supplier_12,Sylhet,Footwear; Electronics Accessories,2018-12-20,30.0,8
+S013,Supplier_13,Sylhet,Beverages; Footwear,2021-10-19,60.0,12
+S014,Supplier_14,Barishal,Beverages; Personal Care,2021-09-29,15.0,19
+S015,Supplier_15,Dhaka,Personal Care,2020-07-16,45.0,15
+S016,Supplier_16,Rajshahi,Personal Care,2020-02-14,45.0,16
+S017,Supplier_17,Rajshahi,Home & Kitchen,2023-09-06,30.0,13
+S018,Supplier_18,Sylhet,Footwear; Apparel,2021-02-24,30.0,10
+S019,Supplier_19,Khulna,Home & Kitchen; Grocery,2023-07-14,,6
+S020,Supplier_20,Chattogram,Footwear,2024-08-05,60.0,18
+S021,Supplier_21,Barishal,Footwear,2020-03-03,,17
+S022,Supplier_22,Chattogram,Electronics Accessories,2019-05-22,15.0,3
+S023,Supplier_23,Rajshahi,Home & Kitchen,2024-07-10,15.0,15
+S024,Supplier_24,Rajshahi,Stationery; Home & Kitchen,2022-05-07,15.0,4
+S025,Supplier_25,Barishal,Electronics Accessories,2019-12-29,15.0,16
+S026,Supplier_26,Sylhet,Electronics Accessories; Personal Care,2022-04-04,60.0,17
+S027,Supplier_27,Chattogram,Grocery,2021-07-11,60.0,5
+S028,Supplier_28,Dhaka,Footwear,2024-03-13,15.0,10
+S029,Supplier_29,Sylhet,Personal Care,2019-10-02,45.0,5
+S030,Supplier_30,Khulna,Electronics Accessories; Beverages,2024-10-14,15.0,13
+S031,Supplier_31,Dhaka,Footwear; Apparel,2024-05-29,30.0,19
+S032,Supplier_32,Barishal,Stationery,2019-03-28,45.0,4
+S033,Supplier_33,Rajshahi,Stationery,2019-02-16,45.0,10
+S034,Supplier_34,Dhaka,Electronics Accessories,2021-08-25,60.0,20
+S035,Supplier_35,Chattogram,Personal Care; Home & Kitchen,2018-04-23,15.0,8
+S036,Supplier_36,Rajshahi,Apparel,2020-01-17,,5
+S037,Supplier_37,Chattogram,Electronics Accessories,2020-12-23,30.0,11
+S038,Supplier_38,Dhaka,Stationery; Grocery,2024-08-20,30.0,12
+S039,Supplier_39,Rajshahi,Beverages; Grocery,2024-10-16,60.0,14
+S040,Supplier_40,Khulna,Home & Kitchen,2019-01-14,60.0,8
+S041,Supplier_41,Dhaka,Electronics Accessories; Beverages,2024-02-08,30.0,20
+S042,Supplier_42,Chattogram,Apparel,2018-08-16,60.0,12
+S043,Supplier_43,Chattogram,Beverages; Home & Kitchen,2023-02-15,30.0,8
+S044,Supplier_44,Rajshahi,Personal Care; Apparel,2023-10-16,45.0,20
+S045,Supplier_45,Khulna,Home & Kitchen; Apparel,2024-02-05,30.0,19
