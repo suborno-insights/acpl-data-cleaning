@@ -72,7 +72,7 @@ All 11 tables done.
 ## 🔑 Highlights
 
 A few of the more interesting findings, out of the full write-up in
-[`docs/CLEANING_LOG.md`](docs/CLEANING_LOG.md):
+[`docs/CLEANING_LOG.md`](CLEANING_LOG.md):
 
 - **A completely invisible-to-automation bug**: `shipments.distance_km` had some values
   recorded in miles instead of km — no single-column check can catch this, since a mile
